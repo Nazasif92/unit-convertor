@@ -90,6 +90,8 @@ def convert_unit(value, unit_from, unit_to):
             "hectare_sq_meter": 10000, # 1 hectare = 10000 sq meters
             "sq_meter_acre": 0.000247105, # 1 sq meter = 0.000247105 acres
             "acre_sq_meter": 4046.86, # 1 acre = 4046.86 sq meters
+            "hectare_acre": 2.47105, # 1 hectare = 2.47105 acres
+            "acre_hectare": 0.404686, # 1 acre = 0.404686 hectares
         },
                 
     }
